@@ -8,10 +8,10 @@ The dataset comes from an ARFF file (`bodyfat.arff`), and the goal is to compare
 bodyfat-ml/
 │
 ├── data/                 # Raw and preprocessed datasets
-|   ├── bodyfat.arff
-|   ├── clean_df.csv
+│   ├── bodyfat.arff
+│   ├── clean_df.csv
 │   └── README.md
-| 
+│ 
 │
 ├── notebooks/            # Jupyter Notebooks (Kaggle-friendly)
 │   ├── 01_exploration.ipynb   # Data loading & EDA
