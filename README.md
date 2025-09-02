@@ -17,10 +17,10 @@ bodyfat-ml/
 │ 
 │
 ├── notebooks/            # Jupyter Notebooks (Kaggle-friendly)
-│   ├── 01_exploration.ipynb   # Data loading & EDA
-│   ├── 02_preprocessing.ipynb # Cleaning, splitting, scaling
-│   ├── 03_models.ipynb        # Training multiple regressors
-│   └── 04_results.ipynb       # Evaluation & visualization
+│   ├── 01-exploration.ipynb   # Data loading & EDA
+│   ├── 02-preprocessing.ipynb # Cleaning, splitting, scaling
+│   ├── 03-models.ipynb        # Training multiple regressors
+│   └── 04-results.ipynb       # Evaluation & visualization
 │
 ├── models/               # Saved ML models
 │   └── best_model.pkl
