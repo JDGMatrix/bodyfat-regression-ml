@@ -29,11 +29,11 @@ bodyfat-ml/
 1. Exploration: Load dataset, check for missing values, visualize distributions & correlations.
 2. Preprocessing: Clean data, train-test split, apply feature scaling.
 3. Model Training: Train and evaluate multiple regression models:
-  - Linear Regression
-  - Ridge Regression
-  - Random Forest Regressor
-  - Gradient Boosting Regressor
-  - XGBoost Regressor
+    - Linear Regression
+    - Ridge Regression
+    - Random Forest Regressor
+    - Gradient Boosting Regressor
+    - XGBoost Regressor
 
 4. Evaluation: Compare models using MAE, RMSE, and R².
 
