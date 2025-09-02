@@ -36,7 +36,15 @@ bodyfat-ml/
     - XGBoost Regressor
 
 4. Evaluation: Compare models using MAE, RMSE, and R².
+5. Results: Save the best model and visualize predictions vs. actual values.
 
-Results: Save the best model and visualize predictions vs. actual values.
+## 📊 Results
+
+Best model: (to be updated after experiments, e.g., Random Forest)
+
+Performance metrics :
+MAE: `X.XXX`
+RMSE: `X.XXX`
+R²: `X.XXX`
 
 
