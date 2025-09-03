@@ -11,16 +11,28 @@ The main purpose of this project is to personally familiarise myself with data p
 bodyfat-ml/
 │
 ├── data/                 # Raw and preprocessed datasets
-│   ├── bodyfat.arff
-│   ├── clean_df.csv
+│   ├── raw/
+│   │   └── bodyfat.arff
+│   │
+│   ├── processed_data/
+│   │   ├── X_test_all_features.csv
+│   │   ├── X_test_top_features.csv
+│   │   ├── X_train_all_features.csv
+│   │   ├── X_train_top_features.csv
+│   │   ├── y_test.csv
+│   │   └── y_train.csv
+│   │
 │   └── README.md
 │ 
-│
 ├── notebooks/            # Jupyter Notebooks (Kaggle-friendly)
 │   ├── 01_exploration.ipynb   # Data loading & EDA
 │   ├── 02_preprocessing.ipynb # Cleaning, splitting, scaling
 │   ├── 03_models.ipynb        # Training multiple regressors
 │   └── 04_results.ipynb       # Evaluation & visualization
+│
+├── objects/               # Saved scaler, selector, and pipelines (if any)
+│   ├── scaler.pkl        
+│   └── selector.pkl
 │
 ├── models/               # Saved ML models
 │   └── best_model.pkl
