@@ -14,7 +14,7 @@ bodyfat-ml/
 │   ├── raw/
 │   │   └── bodyfat.arff
 │   │
-│   ├── processed_data/
+│   ├── processed/
 │   │   ├── X_test_all_features.csv
 │   │   ├── X_test_top_features.csv
 │   │   ├── X_train_all_features.csv
