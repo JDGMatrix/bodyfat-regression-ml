@@ -62,8 +62,17 @@ bodyfat-ml/
 Best model: (to be updated after experiments, e.g., Random Forest)
 
 Performance metrics :
-MAE: `X.XXX`
-RMSE: `X.XXX`
-R²: `X.XXX`
+- MAE: `X.XXX`
+- RMSE: `X.XXX`
+- R²: `X.XXX`
+
+## 🚀 Future Work
+
+- Try neural networks for regression.
+- Explore feature selection to reduce dimensionality.
+- Deploy best model as a web app (e.g., Streamlit).
+
+## 👤 Author
+Jan Manatunga – Aspiring student passionate about ML & AI.
 
 
