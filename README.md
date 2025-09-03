@@ -6,7 +6,7 @@ The dataset comes from an ARFF file (`bodyfat.arff`), and the goal is to compare
 
 The main purpose of this project is to personally familiarise myself with data preparation, visualisation and machine learning with the `scikit-learn` library.
 
-## 📂 Repository Structure (incomplete...)
+## 📂 Repository Structure
 ```bash
 bodyfat-ml/
 │
