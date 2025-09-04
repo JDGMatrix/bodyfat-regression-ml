@@ -53,6 +53,9 @@ bodyfat-ml/
     - Gradient Boosting Regressor
     - XGBoost Regressor
     - Ridge Regression
+    - ElasticNet Regression
+    - Support Vector Regression
+    - K Nearest Neighbors Regression
 
 4. Evaluation: Compare models using MAE, RMSE, and R².
 5. Results: Save the best model and visualise predictions vs. actual values.
