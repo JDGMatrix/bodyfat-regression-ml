@@ -28,13 +28,14 @@ bodyfat-ml/
 │   ├── 01_exploration.ipynb   # Data loading & EDA
 │   ├── 02_preprocessing.ipynb # Cleaning, splitting, scaling
 │   ├── 03_models.ipynb        # Training multiple regressors
-│   └── 04_results.ipynb       # Evaluation & visualization
+│   └── 04_results.ipynb       # Evaluation, visualisation and final model
 │
 ├── objects/               # Saved scaler, selector, and pipelines (if any)
 │   ├── scaler.pkl        
 │   └── selector.pkl
 │
 ├── models/               # Saved ML models
+│   ├── model_comparison.csv   # Metrics of all trained models
 │   └── best_model.pkl
 │
 ├── results/              # Outputs & predictions
