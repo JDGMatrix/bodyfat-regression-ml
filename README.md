@@ -63,12 +63,12 @@ bodyfat-ml/
 
 ## 📊 Results
 
-Best model: (to be updated after experiments, e.g., Random Forest)
+Best model: Ridge
 
 Performance metrics :
-- MAE: `X.XXX`
-- RMSE: `X.XXX`
-- R²: `X.XXX`
+- MAE: `3.249`
+- RMSE: `4.03`
+- R²: `0.651`
 
 ## 🚀 Future Work
 
