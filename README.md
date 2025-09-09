@@ -63,7 +63,7 @@ bodyfat-ml/
 
 ## 📊 Results
 
-Best model: Ridge
+Best model: **Ridge Regression**
 
 Performance metrics :
 - MAE: `3.249`
